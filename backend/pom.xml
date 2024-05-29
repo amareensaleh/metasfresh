@@ -390,7 +390,7 @@
             <dependency>
                 <groupId>com.graphql-java</groupId>
                 <artifactId>graphql-java</artifactId>
-                <version>2019-08-28T11-47-05-b9487a9</version>
+                <version>22.1</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
